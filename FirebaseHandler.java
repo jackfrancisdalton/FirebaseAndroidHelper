@@ -1,9 +1,3 @@
-package com.whereuat.jackfdalton.project;
-
-/**
- * Created by Jack F. Dalton on 0026 26 09 2016.
- */
-
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;

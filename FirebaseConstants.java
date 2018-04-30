@@ -1,8 +1,3 @@
-package com.whereuat.jackfdalton.project;
-
-/**
- * Created by Ed on 0020 20 06 2016.
- */
 //POI: as a lot of the content in firebase is based off of variable refs, I've made this to make it more programmatic
 public class FirebaseConstants {
 

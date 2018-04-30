@@ -1,5 +1,3 @@
-package com.whereuat.jackfdalton.project;
-
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
